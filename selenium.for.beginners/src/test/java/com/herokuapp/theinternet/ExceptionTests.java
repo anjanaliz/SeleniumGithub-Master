@@ -20,7 +20,7 @@ public class ExceptionTests {
 		//Click Add button
 		WebElement clickAdd = driver.findElement(By.id("add_btn" ));
 		clickAdd.click();
-		sleep(10);
+		sleep(9);
 		//Loading element
 		//WebElement loading =driver.findElement(By.xpath("//html//div[@id='loading']"));
 		sleep(10);
